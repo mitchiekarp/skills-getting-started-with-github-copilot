@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+pytest
+requests
+
+# Added for FastAPI test client support
+httpx
